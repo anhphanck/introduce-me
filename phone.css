@@ -1,0 +1,35 @@
+/* home */
+p{
+    font-family:Roboto,arial;
+}
+#home{
+    height:820px;
+    position: relative;
+}
+.main{
+    position: absolute;
+    top:20px;
+}
+.headings{
+    font-size: 1.7rem;
+}
+
+/* about */
+#pic img{
+    width:300px;
+    height:175px;
+
+}
+#intro h2{
+    font-size: 1.5rem;
+}
+.gallery img{
+    width:270px;
+    height:150px;
+    margin:10px;
+}
+/* contact */
+#contact .headings{
+    margin: 10px;
+    border: 10px;
+}
